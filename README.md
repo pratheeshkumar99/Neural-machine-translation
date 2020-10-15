@@ -1,3 +1,4 @@
+NEURAL MACHINE TRANSLATION (Eng-German)
 A neural machine translation model that translates english sentences into its corresponding german translations.
 
 Built a neural translation model using bahdanau attention or  Additive Attention trained for 10 Epochs using 1,00,000 english to german translations
