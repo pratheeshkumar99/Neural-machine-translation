@@ -1,2 +1,1 @@
-# Neural-machine-translation
-neural machine translation using attention mechanism which  translates eng sentences into its corresponding hindi translations
+A neural machine translation model that translates english sentences into its corresponding german translations.
